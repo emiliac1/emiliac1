@@ -1,7 +1,7 @@
 - 👋 Hi, I’m emilia
 - 👀 I’m interested in programming and digital marketing
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on optimistic people
+- 💞️ I’m looking to collaborate with optimistic people
 - 📫 Reach out to me on whatsapp or phone call 09083731989
 
 <!---
